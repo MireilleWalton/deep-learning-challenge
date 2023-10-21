@@ -2,12 +2,6 @@
 
 MONU-VIRT-DATA-PT-05-2023-U-LOLC-MTTH
 
-**Files included:**
-
-- MW_Deep_Learning_Code.ipynb
-- MW_AlphabetSoupCharity_Optimisation.ipynb
-- Readme.md
-
 # Report
 
 ## Overview
